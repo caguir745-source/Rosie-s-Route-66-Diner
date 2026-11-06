@@ -23,4 +23,8 @@ nav{ font-size: xx-large
     transform: translateY(7px);
 }
 
+.main-img{
+    height: 450px;
+    width: 95%;
+}
 
